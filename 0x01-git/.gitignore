@@ -1,1 +1,1 @@
-echo .gitignore > "git push does not work with emacs"
+echo ~ > "git push does not work with emacs"
